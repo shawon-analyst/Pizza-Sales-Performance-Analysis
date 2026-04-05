@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Performance Analysis & Business Intelligence Dashboard
 
 <p align="center">
-  <img src="Image/Dashboard.png" alt="Dashboard Preview" width="800"/>
+  <img src="Image/Dashboard.png" alt="Dashboard Preview" width="1000"/>
 </p>
 
 <p align="center">
@@ -100,19 +100,6 @@ Experience the dashboard instantly in your browser — no installation required:
 ✔ Works on any device  
 ✔ Best way to explore insights  
 
----
-## 💻 Run Locally (Power BI Desktop)
-
-### 📥 Step 1: Clone the Repository
-```bash
-git clone https://github.com/shawon-analyst/Pizza-Sales-Performance-Analysis.git
-
-This project is part of a professional portfolio showcasing:
-
-End-to-end data analytics workflow
-Data transformation & modeling
-Business insight generation using Power BI
-```
 ---
 
 ### 👤 Author
