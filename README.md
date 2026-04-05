@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Performance Analysis & Business Intelligence Dashboard
 
 <p align="center">
-  <img src="Image/Dashboard.png" alt="Dashboard Preview" />
+  <img src="Image/Dashboard.png" alt="Dashboard Preview"  width = 800/>
 </p>
 
 <p align="center">
