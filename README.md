@@ -1,28 +1,90 @@
-# Pizza Sales Performance Analysis & Business Intelligence Dashboard 📊
+# 🍕 Pizza Sales Performance Analysis & Business Intelligence Dashboard
 
-## Project Overview
-This project focuses on transforming raw retail transactional data into a high-level **Strategic Decision-Making Dashboard** using **Power BI**. The primary goal is to solve critical business challenges such as workforce optimization, menu engineering, and revenue maximization through data-driven insights.
+<p align="center">
+  <img src="Assets/dashboard_preview.png" alt="Dashboard Preview" width="800"/>
+</p>
 
-## Key Business Problems Solved
-- **Workforce Optimization:** Identified peak sales periods (Friday/Saturday evenings) to optimize staff scheduling.
-- **Menu Engineering:** Pinpointed top revenue generators (Thai Chicken Pizza) and underperforming items (Brie Carre) for strategic menu adjustments.
-- **Revenue Growth:** Analyzed Average Order Value (AOV) and identified upselling opportunities through bundle offers.
-- **Seasonal Planning:** Detected sales spikes to assist in future marketing budget allocation.
+<p align="center">
+  <b>Turning Raw Data into Actionable Business Insights using Power BI</b>
+</p>
 
-## Tech Stack
-- **Tool:** Microsoft Power BI Desktop
-- **Data Processing:** Power Query (ETL)
-- **Calculations:** Advanced DAX (Data Analysis Expressions)
-- **Data Modeling:** Relational Schema (Star/Snowflake)
+---
 
-## File Structure
+## 📌 Project Overview
 
-```text
-.
+This project delivers a complete **Business Intelligence (BI) solution** built with **Microsoft Power BI**, focused on transforming raw transactional data into meaningful insights.
+
+The dashboard empowers stakeholders to make **data-driven decisions** across operations, marketing, and product strategy.
+
+---
+
+## 🎯 Objectives
+
+✔ Analyze overall sales performance  
+✔ Understand customer purchasing behavior  
+✔ Identify best & worst performing products  
+✔ Optimize staffing and operations  
+✔ Increase revenue using data insights  
+
+---
+
+## 🚀 Key Insights
+
+### 🔹 Workforce Optimization
+- Peak sales occur on **Friday & Saturday evenings**
+- Helps improve staff scheduling and reduce idle time  
+
+---
+
+### 🔹 Menu Engineering
+| Category            | Insight                  |
+|--------------------|--------------------------|
+| 🏆 Top Seller       | Thai Chicken Pizza       |
+| ⚠️ Low Performer    | Brie Carre Pizza         |
+
+➡ Enables smarter menu design & pricing strategy  
+
+---
+
+### 🔹 Revenue Growth
+- Calculated **Average Order Value (AOV)**
+- Identified:
+  - Upselling opportunities  
+  - Combo/bundle strategies  
+
+---
+
+### 🔹 Seasonal Trends
+- Sales spikes detected across specific periods  
+- Useful for:
+  - Marketing campaigns  
+  - Inventory planning  
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-FF6F00?style=for-the-badge"/>
+</p>
+
+---
+
+## 📂 Project Structure
+
+```bash
+Pizza-Sales-Performance-Analysis/
+│
 ├── Data/
-│   └── pizza_sales.csv          # Raw transactional data
+│   └── pizza_sales.csv
+│
 ├── Dashboard/
-│   └── Pizza_Sales_Report.pbix  # Power BI Desktop File
+│   └── Pizza_Sales_Report.pbix
+│
 ├── Assets/
-│   └── dashboard_preview.png    # High-quality screenshot
-└── README.md                    # Project Documentation
+│   └── dashboard_preview.png
+│
+└── README.md
