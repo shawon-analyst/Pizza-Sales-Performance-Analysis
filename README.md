@@ -16,7 +16,7 @@ This project focuses on transforming raw retail transactional data into a high-l
 - **Data Modeling:** Relational Schema (Star/Snowflake)
 
 ## File Structure
-text
+```text
 ├── Data/
 │   └── pizza_sales.csv          # Raw transactional data
 ├── Dashboard/
@@ -24,6 +24,8 @@ text
 ├── Assets/
 │   └── dashboard_preview.png    # High-quality screenshot
 └── README.md                    # Project Documentation
+```
+
 ## How to View the Dashboard
 
 ### 1. Live Interactive Link (Recommended)
