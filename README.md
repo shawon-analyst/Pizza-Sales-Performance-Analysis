@@ -107,7 +107,7 @@ Experience the dashboard instantly in your browser — no installation required:
 If you want full access to the data model, DAX measures, and report structure:
 
 #### 📥 Step 1: Clone the Repository
-```bash
+bash
 git clone https://github.com/shawon-analyst/Pizza-Sales-Performance-Analysis.git
 🛠️ Step 2: Requirements
 Install Microsoft Power BI Desktop (Latest Version)
