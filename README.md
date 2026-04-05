@@ -16,7 +16,7 @@ This project focuses on transforming raw retail transactional data into a high-l
 - **Data Modeling:** Relational Schema (Star/Snowflake)
 
 ## File Structure
-```text
+text
 ├── Data/
 │   └── pizza_sales.csv          # Raw transactional data
 ├── Dashboard/
@@ -24,12 +24,11 @@ This project focuses on transforming raw retail transactional data into a high-l
 ├── Assets/
 │   └── dashboard_preview.png    # High-quality screenshot
 └── README.md                    # Project Documentation
-
 ## How to View the Dashboard
 
 ### 1. Live Interactive Link (Recommended)
 You can interact with the live dashboard directly in your browser without installing any software:
-👉 **[https://tinyurl.com/4npsy6za]** 🌐
+👉 **[Live Dashboard Link](https://tinyurl.com/4npsy6za)** 🌐
 
 ### 2. Local Installation (For Power BI Desktop)
 If you want to explore the data model and DAX measures locally:
@@ -38,7 +37,7 @@ If you want to explore the data model and DAX measures locally:
 3. Open the `.pbix` file located in the `Dashboard/` folder.
 
 ## Author
-**Shawon** *Data Analyst* [LinkedIn Profile](https://www.linkedin.com/in/shawonanalyst/) | [Portfolio](https://shawon-analyst-portfolio.vercel.app)
+**Shawon** *Data Analyst* | [LinkedIn Profile](https://www.linkedin.com/in/shawonanalyst/) | [Portfolio](https://shawon-analyst-portfolio.vercel.app)
 
 ---
 *Note: This project is part of a professional portfolio demonstrating end-to-end data analytics and business strategy skills.*
