@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Performance Analysis & Business Intelligence Dashboard
 
 <p align="center">
-  <img src="Assets/dashboard_preview.png" alt="Dashboard Preview" width="800"/>
+  <img src="Image/Dashboard.png" alt="Dashboard Preview" width="800"/>
 </p>
 
 <p align="center">
@@ -14,35 +14,36 @@
 
 This project delivers a complete **Business Intelligence (BI) solution** built with **Microsoft Power BI**, focused on transforming raw transactional data into meaningful insights.
 
-The dashboard empowers stakeholders to make **data-driven decisions** across operations, marketing, and product strategy.
+The dashboard enables stakeholders to make **data-driven decisions** across operations, marketing, and product strategy.
 
 ---
 
 ## 🎯 Objectives
 
-✔ Analyze overall sales performance  
+✔ Analyze sales performance  
 ✔ Understand customer purchasing behavior  
-✔ Identify best & worst performing products  
-✔ Optimize staffing and operations  
-✔ Increase revenue using data insights  
+✔ Identify top & low performing products  
+✔ Optimize workforce planning  
+✔ Increase revenue through insights  
 
 ---
 
 ## 🚀 Key Insights
 
 ### 🔹 Workforce Optimization
-- Peak sales occur on **Friday & Saturday evenings**
-- Helps improve staff scheduling and reduce idle time  
+- Peak sales: **Friday & Saturday evenings**
+- Helps optimize staff scheduling and reduce idle time  
 
 ---
 
 ### 🔹 Menu Engineering
-| Category            | Insight                  |
-|--------------------|--------------------------|
-| 🏆 Top Seller       | Thai Chicken Pizza       |
-| ⚠️ Low Performer    | Brie Carre Pizza         |
 
-➡ Enables smarter menu design & pricing strategy  
+| Category         | Product              |
+|-----------------|----------------------|
+| 🏆 Top Seller    | Thai Chicken Pizza   |
+| ⚠️ Low Performer | Brie Carre Pizza     |
+
+➡ Supports better pricing & menu strategy  
 
 ---
 
@@ -50,26 +51,24 @@ The dashboard empowers stakeholders to make **data-driven decisions** across ope
 - Calculated **Average Order Value (AOV)**
 - Identified:
   - Upselling opportunities  
-  - Combo/bundle strategies  
+  - Bundle/combo strategies  
 
 ---
 
 ### 🔹 Seasonal Trends
-- Sales spikes detected across specific periods  
-- Useful for:
-  - Marketing campaigns  
-  - Inventory planning  
+- Detected sales spikes  
+- Helps in:
+  - Marketing planning  
+  - Inventory management  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Modeling-FF6F00?style=for-the-badge"/>
-</p>
+- **Power BI Desktop**
+- **Power Query (ETL)**
+- **DAX (Data Analysis Expressions)**
+- **Data Modeling (Star Schema)**
 
 ---
 
@@ -78,13 +77,11 @@ The dashboard empowers stakeholders to make **data-driven decisions** across ope
 ```bash
 Pizza-Sales-Performance-Analysis/
 │
-├── Data/
-│   └── pizza_sales.csv
+├── Image/
+│   ├── Dashboard.png
+│   └── Dashboard_2.png
 │
-├── Dashboard/
-│   └── Pizza_Sales_Report.pbix
-│
-├── Assets/
-│   └── dashboard_preview.png
-│
+├── Pizza_Sales.xlsx
+├── Pizza_Sales_Report.pbix
+├── LICENSE
 └── README.md
