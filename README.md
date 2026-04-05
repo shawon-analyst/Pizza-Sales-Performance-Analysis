@@ -101,27 +101,11 @@ Experience the dashboard instantly in your browser — no installation required:
 ✔ Best way to explore insights  
 
 ---
+## 💻 Run Locally (Power BI Desktop)
 
-### 💻 Run Locally (Power BI Desktop)
-
-If you want full access to the data model, DAX measures, and report structure:
-
-#### 📥 Step 1: Clone the Repository
-bash
+### 📥 Step 1: Clone the Repository
+```bash
 git clone https://github.com/shawon-analyst/Pizza-Sales-Performance-Analysis.git
-🛠️ Step 2: Requirements
-Install Microsoft Power BI Desktop (Latest Version)
-📂 Step 3: Open the Report
-Navigate to the project folder
-Open: Pizza_Sales_Report.pbix
-👤 Author
-
-Shawon
-📊 Data Analyst
-
-🔗 LinkedIn: https://www.linkedin.com/in/shawonanalyst/
-🌐 Portfolio: https://shawon-analyst-portfolio.vercel.app
-📌 Note
 
 This project is part of a professional portfolio showcasing:
 
