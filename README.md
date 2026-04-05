@@ -112,3 +112,13 @@ This project is part of a professional portfolio showcasing:
 End-to-end data analytics workflow
 Data transformation & modeling
 Business insight generation using Power BI
+```
+---
+
+### 👤 Author
+**Shawon** | Data Analyst  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shawonanalyst/)  
+🌐 [Portfolio Website](https://shawon-analyst-portfolio.vercel.app)
+
+---
+*Note: This project is part of a professional portfolio demonstrating end-to-end data analytics and business strategy skills.*
